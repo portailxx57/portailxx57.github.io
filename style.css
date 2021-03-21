@@ -40,11 +40,11 @@ h2 {
     text-transform: uppercase;
     text-align: center;
     padding-top: 30px;
-    font-size: 5em;
+    font-size: 4em;
     color: blanchedalmond;
 }
 p {
-    font-size: 2.5em;
+    font-size: 1.9em;
     text-align: center;
     color: blanchedalmond;
 }
@@ -54,28 +54,29 @@ a {
 }
 button {
     font-size: 0.9em;
-    font-family: 'Advent Pro', sans-serif;
+    font-family: 'Dancing Script', sans-serif;
     
 }
 section img {
-    width: 100%;
+    width: 70;
+    text-align: center;
     opacity: 1;
     
    
 }
 button{
-    font-size: 8em;
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 10px;
+    font-size: 4em;
+    font-family: 'Dancing Scipt', Helvetica, sans-serif;
+    padding: 20px;
     border: none;
     background-color: rgb(133, 64, 139);
     color: beige;
-    border-radius: 3px;
+    border-radius: 4px;
     box-shadow: 6px 6px 20px 4px rgba(0, 0, 0, 0.3);
     cursor: pointer;
     outline: none;
     transition: 0.2s;
-    font-family: 'Advent Pro', sans-serif;
+    font-family: 'Dancing Script', sans-serif;
     
     display: block;
         margin: auto;
@@ -83,12 +84,12 @@ button{
     
 }
 button:hover{
-    transform: scale(1.01);
-    box-shadow: 6px 6px 25px 4px rgba(0, 0, 0, 0.18);
+    transform: scale(1.4);
+    box-shadow: 20px 20px 25px 4px rgba(0, 0, 0, 0.18);
 }
 button:active{
-    transform: scale(0.98);
-    box-shadow: 6px 6px 18px 2px rgba(0, 0, 0, 0.23);
+    transform: scale(0.7);
+    box-shadow: 20px 20px 18px 2px rgba(0, 0, 0, 0.23);
 }
 a {
   
@@ -103,10 +104,10 @@ h4 {
     text-align: center;
     color: beige;
     width: 100%;
-    font-size: 5em;
+    font-size: 2.3em;
 }
 h5 {
-    font-size: 3em;
+    font-size: 1.3em;
 }
 /* *********************** NAVBAR **************************** */
 nav {
@@ -119,7 +120,7 @@ nav {
 }
 header li {
     float: right;
-    font-size: 3em;
+    font-size: 2.5em;
 }
 header li a {
     text-decoration: none;
@@ -129,7 +130,7 @@ header li a {
 
 }
 header img {
-    width: 65px;
+    width: 55px;
     padding: 10px 2px;
     opacity: 0.8;
 }
